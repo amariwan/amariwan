@@ -46,6 +46,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </p>
 <br/>
 <br/>
+<br>
 
 ## What I like:
 I love coding in python for many reasons. Here are some:
