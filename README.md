@@ -17,7 +17,7 @@
   ---
   
   <p>
-  <img width="250" align='left' src="https://github.com/amariwan/amariwan/blob/main/hacktoberfest.png">
+  <img width="250" align='left' src="https://github.com/amariwan/amariwan/hacktoberfest.png">
 </p>
  
 ### Boy Scout Rule
