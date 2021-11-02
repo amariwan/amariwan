@@ -41,12 +41,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <img align='left' style="margin-right:15px" src="error.gif" width="250">
 </div >
 <h2> 👨🏽‍💻Talking about Personal Stuffs:</h2>
-<p style="font-size:16px">👨🏻‍🎓 I am currently studying in osz teltow ;<br>
-💬 Ask me about anything, I am happy to help;<br>
-</p>
-<br/>
-<br/>
-<br>
+<p style="font-size:16px">👨🏻‍🎓 I am currently studying in osz teltow;<br>😊 I'm a lifelong learner;<br>⚡ Fun fact: I like to Singing Rap 🎧 , And Read Books 📕 About Security & Hacking And I love Play Independent games 🎮;<br>👯 I’m looking to collaborate on open source or any commercial project;<br>💬 Ask me about anything, I am happy to help;
 
 ## What I like:
 I love coding in python for many reasons. Here are some:
@@ -67,5 +62,6 @@ I also like coding in Java because:
 
 [![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
 
-<!-- [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666) -->
+<!-- [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
+ -->
 
