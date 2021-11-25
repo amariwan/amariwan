@@ -62,6 +62,7 @@ I also like coding in Java because:
 
 [![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
 
+![](https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views)
 <!-- [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
  -->
 
