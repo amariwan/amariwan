@@ -10,10 +10,9 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: <amariwan/amariwan> # optional, By default, it will automatically use the repository who's executing the workflow.
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "False"
