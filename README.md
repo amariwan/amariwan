@@ -60,9 +60,20 @@ I also like coding in Java because:
  * Really interesting to me, I like the syntax  
  * Can be challenging and still look great even with more complicated syntax
 
+  -------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+-------
+  
 [![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views)
 <!-- [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
  -->
 
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 November, 19:05 CET<br /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views" /> <img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/></p>
