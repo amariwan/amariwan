@@ -70,17 +70,6 @@ I also like coding in Java because:
 
 ------------
 
-<p align="center"><img align="center" src="https://metrics.lecoq.io/amariwan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin&config.twemoji=true"/></p>
-<p align="center"><img align="center" src="https://metrics.lecoq.io/amariwan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FBerlin"/></p>
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 November, 19:05 CET<br /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views" /> <img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/></p>
-
-
-
-
-
------------
-
 This is an open chess tournament where ANYONE can play. That's the fun part.
 It's your turn to play! Move a black piece.
 
@@ -128,3 +117,13 @@ Having fun? Ask a friend to do the next move!
 
 How it works
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+
+
+-----------
+
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 November, 19:05 CET<br /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views" /> <img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/></p>
+
+
+
+
