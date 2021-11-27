@@ -81,6 +81,8 @@ I also like coding in Java because:
 
 -----------
 
+This is an open chess tournament where ANYONE can play. That's the fun part.
+It's your turn to play! Move a black piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -118,5 +120,11 @@ I also like coding in Java because:
 | :--: | :----- |
 | | |
 
+
 <!-- END LAST MOVES -->
 </details>
+
+Having fun? Ask a friend to do the next move!
+
+How it works
+When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
