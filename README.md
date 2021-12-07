@@ -72,7 +72,10 @@ I also like coding in Java because:
 
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 November, 19:05 CET<br /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=amariwan&label=Profile+Views" /> <img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/></p>
+<p align="center">
+<img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> 
+<img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/>
+</p>
 
 
 
