@@ -31,7 +31,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 I write regular blog posts, most of which you will find on my personal website [aland-mariwan.de](https://aland-mariwan.de).
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **Python** and **Javascript**. 
 
 [Latest Post 👉](https://aland-mariwan.de/blog.php)
 
@@ -55,10 +55,11 @@ I need to be organized all the time so I usually have most of my day written
 down somewhere so that I don't get lost in my thought - this kind of means I like  
 being organized?  
   
-I also like coding in Java because:
- * I can create minecraft mods, which are fun and people like to use them
- * Really interesting to me, I like the syntax  
- * Can be challenging and still look great even with more complicated syntax
+I also like coding in Python because:
+ * Python Excels at Speedy Development
+ * Python has powerful primitives  
+ * Python liest sich wie ausführbarer Pseudocode
+ * Build a Video Game 
 
 -------
 
