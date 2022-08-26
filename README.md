@@ -61,7 +61,19 @@ I also like coding in Python because:
  * Python liest sich wie ausführbarer Pseudocode
  * Build a Video Game 
 
--------
+  <details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <br>
+🏆 Github Status
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amariwan&show_icons=true&theme=radical)
+
+## Visitors*
+![Visitor Count](https://profile-counter.glitch.me/amariwan/count.svg)
+  
+ </details>
+  
+------------
 
   
 [![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
