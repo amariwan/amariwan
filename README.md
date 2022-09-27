@@ -70,7 +70,7 @@ I also like coding in Python because:
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
 ## Visitors*
-![Visitor Count](https://profile-counter.glitch.me/amariwan/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=amariwan&color=grey)
   
   ### Some of my most used languages, but open to learn new ones
 
