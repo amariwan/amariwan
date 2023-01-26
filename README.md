@@ -44,22 +44,20 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <p style="font-size:16px">👨🏻‍🎓 I am currently studying in osz teltow;<br>😊 I'm a lifelong learner;<br>⚡ Fun fact: I like to Singing Rap 🎧 , And Read Books 📕 About Security & Hacking And I love Play Independent games 🎮;<br>👯 I’m looking to collaborate on open source or any commercial project;<br>💬 Ask me about anything, I am happy to help;
 
 ## What I like:
+
 I love coding in python for many reasons. Here are some:
-  * Simple syntax
-  * Ability to do a lot with just a few lines of code
-  * Makes automization really easy  
-  
-I also like listening to music while coding. It helps me relax  
-and (or) concentrate a lot.
-I need to be organized all the time so I usually have most of my day written  
-down somewhere so that I don't get lost in my thought - this kind of means I like  
-being organized?  
-  
+
+* Simple syntax
+* Ability to do a lot with just a few lines of code
+* Makes automization really easy
+I also like listening to music while coding. It helps me relax and concentrate a lot. I need to be organized all the time so I usually have most of my day written down somewhere so that I don't get lost in my thought - this kind of means I like being organized?
+
 I also like coding in Python because:
- * Python Excels at Speedy Development
- * Python has powerful primitives  
- * Python liest sich wie ausführbarer Pseudocode
- * Build a Video Game 
+
+* Python Excels at Speedy Development
+* Python has powerful primitives
+* Python liest sich wie ausführbarer Pseudocode
+* Build a Video Game
 
 
 🏆 Github Status
