@@ -66,6 +66,8 @@ I also like coding in Python because:
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aland Mariwan Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amariwan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aland Mariwan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amariwan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amariwan&theme=nord&no-frame=false&no-bg=true&margin-w=4"/>
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
 ## Visitors*
@@ -104,7 +106,6 @@ I also like coding in Python because:
 
 <!-- [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
  -->
-
 ------------
 
 
