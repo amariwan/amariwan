@@ -85,6 +85,7 @@ I also like coding in Python because:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![Cs](https://img.shields.io/badge/-Bash-000?&logo=Cs)
 
 
 ### Some of my most used technologies, but open to learn new ones
