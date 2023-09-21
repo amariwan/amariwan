@@ -1,64 +1,96 @@
-<img align="right" alt="GIF" src="code.gif" width="400" height="310" />
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aland+Mariwan.;Welcome+to+my+profile!&center=true&size=27">
-  </a>
-</h1>
-<br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp align="right">
-          Full-Stack Software Engineer | Javascript | C# | React.js | Web Developer | UX & UI Designer | ETL Developer | Data Integration 
-    <br>
-  </samp>
-</p>
+<div class="profile-header">
+  <img src="code.gif" alt="Coding GIF" align="right" width="400" height="310" />
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aland+Mariwan.;Welcome+to+my+profile!&center=true&size=27" alt="Typing Animation" />
+    </a>
+  </h1>
+</div>
 
-  ---
-  
-  <p>
-  <img width="250" align='left' src="https://github.com/amariwan/amariwan/blob/master/hacktoberfest.png">
-</p>
+<div class="profile-info">
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" alt="Coding GIF" width="27px" />
+    <br /><br />
+    <samp>
+      Full-Stack Software Engineer | Javascript | C# | React.js | Web Developer | UX & UI Designer | ETL Developer | Data Integration
+      <br />
+    </samp>
+  </p>
+</div>
+
+---
+
+<div class="hacktoberfest-badge">
+  <img width="250" align="left" src="https://github.com/amariwan/amariwan/blob/master/hacktoberfest.png" alt="Hacktoberfest Badge" />
+</div>
+
  
 ### Boy Scout Rule
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.<br>I 💕 a good onboarding readme with good example.
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
  ---
 
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [aland-mariwan.de](https://aland-mariwan.de).
+I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [aland-mariwan.de](https://aland-mariwan.de).
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **Python** and **Javascript**. 
+My motivation for writing is rooted in my desire to share knowledge and help others. I believe that learning is a continuous journey, and I want to contribute to the growth and development of fellow developers and learners.
 
-[Latest Post 👉](https://aland-mariwan.de/blog.php)
+I cover a variety of topics in my blog posts, including those I'm deeply familiar with, common stumbling blocks I've encountered while mentoring others, and the latest concepts and technologies I'm learning. 
+
+My day-to-day work involves creating meaningful projects with **data**, utilizing the power of **Python** and **Javascript** to analyze, visualize, and derive insights from datasets.
+
+If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://aland-mariwan.de/blog.php). I hope you find something valuable and thought-provoking in my digital garden.
+
 
  ---
  
-<div >
-<img align='left' style="margin-right:15px" src="error.gif" width="250">
-</div >
-<h2> 👨🏽‍💻Talking about Personal Stuffs:</h2>
-<p style="font-size:16px">👨🏻‍🎓 I am currently studying in osz teltow;<br>😊 I'm a lifelong learner;<br>⚡ Fun fact: I like to Singing Rap 🎧 , And Read Books 📕 About Security & Hacking And I love Play Independent games 🎮;<br>👯 I’m looking to collaborate on open source or any commercial project;<br>💬 Ask me about anything, I am happy to help;
+<div>
+  <img align='left' style="margin-right:15px" src="error.gif" width="250">
+</div>
 
-## What I like:
+<h2>👨🏽‍💻 Talking about Personal Stuffs:</h2>
 
-I love coding in python for many reasons. Here are some:
+<p style="font-size:16px">
+  👨🏻‍🎓 I have successfully completed my education at OSZ Teltow, where I studied [Name deines Studienfachs]. Education has been a valuable part of my journey, and now I'm ready to apply my knowledge and skills in the real world.
 
-* Simple syntax
-* Ability to do a lot with just a few lines of code
-* Makes automization really easy
-  
-I also like listening to music while coding. It helps me relax and concentrate a lot. I need to be organized all the time so I usually have most of my day written down somewhere so that I don't get lost in my thought - this kind of means I like being organized?
+  😊 Lifelong learning is a core value for me. I believe in continually seeking opportunities to grow and develop, both personally and professionally.
 
-I also like coding in Python because:
+  ⚡ Fun fact: In my free time, I enjoy Singing Rap 🎧 and diving into Books 📕 related to Security & Hacking. Additionally, I have a deep passion for playing Independent games 🎮, where I discover unique and innovative gaming experiences.
 
-* Python Excels at Speedy Development
-* Python has powerful primitives
-* Python liest sich wie ausführbarer Pseudocode
-* Build a Video Game
+  👯 I’m always open to collaboration, whether it's contributing to open source projects or working on exciting commercial endeavors. Feel free to reach out if you have a project in mind or just want to connect.
+
+  💬 Don't hesitate to ask me about anything! I'm here to help and engage in meaningful conversations with fellow developers and enthusiasts.
+</p>
+
+## 🚀 What I Like:
+
+I have a profound affection for coding in **Python**, and here's why it's my programming language of choice:
+
+* **Simple Syntax**: Python's clean and elegant syntax is a joy to work with. It reads like poetry and allows me to express complex ideas in a readable and concise manner.
+
+* **Efficiency**: Python's power lies in its ability to accomplish a lot with just a few lines of code. It's the Swiss Army knife of programming languages, helping me turn concepts into functional code rapidly.
+
+* **Automation**: Python excels at automating mundane and repetitive tasks, making it an invaluable tool in modern software development. It's the engine that drives efficiency.
+
+When I'm in the coding flow, I find solace in the rhythms of music. 🎵 Whether it's the soothing melodies of classical compositions or the electric beats of electronic tunes, music is my creative companion during coding adventures.
+
+To maintain focus and productivity, I adhere to a well-structured daily routine. 📝 Keeping track of tasks and goals ensures that I navigate through the day with precision, turning chaos into order.
+
+Python, to me, is not just a programming language; it's a medium of creativity and innovation. It excels in:
+
+* **Speedy Development**: Python enables rapid prototyping and swift development, transforming ideas into reality.
+
+* **Powerful Primitives**: With its rich set of built-in data types and libraries, Python simplifies complex operations and unleashes the full potential of programming.
+
+* **Readability**: Python code reads like executable pseudocode, making collaboration a breeze and maintenance a pleasure.
+
+* **Building Games**: I've even ventured into the realm of game development using Python, crafting interactive experiences that bring joy to players.
+
+In my coding journey, Python is the brush I use to paint the canvas of possibilities. It's more than a language; it's a creative outlet. 🎨
+
 
 
 🏆 Github Status
