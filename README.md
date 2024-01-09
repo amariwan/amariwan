@@ -54,7 +54,7 @@ If you're interested in exploring my thoughts and insights, feel free to check o
 <h2>👨🏽‍💻 Talking about Personal Stuffs:</h2>
 
 <p style="font-size:16px">
-  👨🏻‍🎓 I have successfully completed my education at OSZ Teltow, where I studied [Name deines Studienfachs]. Education has been a valuable part of my journey, and now I'm ready to apply my knowledge and skills in the real world.
+  👨🏻‍🎓 I have successfully completed my education at OSZ Teltow, where I studied IT Specialist Application Development. Education has been a valuable part of my journey, and now I'm ready to apply my knowledge and skills in the real world.
 
   😊 Lifelong learning is a core value for me. I believe in continually seeking opportunities to grow and develop, both personally and professionally.
 
