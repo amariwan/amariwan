@@ -21,7 +21,7 @@
 ---
 
 <div class="hacktoberfest-badge">
-  <img width="250" align="left" src="https://github.com/amariwan/amariwan/blob/master/hacktoberfest.png" alt="Hacktoberfest Badge" />
+  <img width="250" align="left" src="https://lazywinadmin.com/images/2019/2019-09-29-hacktoberfest_powershell/hacktoberfest2019medium.png" alt="Hacktoberfest Badge" />
 </div>
 
  
