@@ -166,10 +166,10 @@ In my coding journey, Python is the brush I use to paint the canvas of possibili
 ------------
 
   
-<!-- [![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
+[![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
 
 [![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
- -->
+
 ------------
 
 
