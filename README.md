@@ -12,7 +12,7 @@
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" alt="Coding GIF" width="27px" />
     <br /><br />
     <samp>
-      Full-Stack Software Engineer | Javascript | React.js | Web Developer | UX & UI Designer | ETL Developer | Data Integration
+      Full-Stack Software Engineer | UX & UI Designer
       <br />
     </samp>
   </p>
@@ -92,7 +92,7 @@ Python, to me, is not just a programming language; it's a medium of creativity a
 In my coding journey, Python is the brush I use to paint the canvas of possibilities. It's more than a language; it's a creative outlet. 🎨
 
 
-
+<!--
 🏆 Github Status
 
   <a><img alt="Aland Mariwan Github Stats" src="https://github-readme-stats.vercel.app/api/?username=amariwan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -104,7 +104,7 @@ In my coding journey, Python is the brush I use to paint the canvas of possibili
     
 ## Visitors*
 ![Visitor Count](https://komarev.com/ghpvc/?username=amariwan&color=grey)
-  
+  -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -164,14 +164,6 @@ In my coding journey, Python is the brush I use to paint the canvas of possibili
 </td></tr></table> 
   
 ------------
-
-  
-[![Aland Mariwan github activity graph](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=amariwan&theme=react-dark&hide_border=true)
-
-[![Aland Mariwan Streak](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)](https://github-readme-streak-stats.herokuapp.com/?user=amariwan&theme=react&background=0d1117&border=666)
-
-------------
-
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 Aug. 12:00 CET<br /></p>
 <p align="center">
