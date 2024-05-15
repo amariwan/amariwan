@@ -162,15 +162,5 @@ In my coding journey, Python is the brush I use to paint the canvas of possibili
 </div>
 
 </td></tr></table> 
-  
-------------
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 Aug. 12:00 CET<br /></p>
-<p align="center">
-<img alt="Stars" src="https://img.shields.io/github/stars/amariwan/amariwan?style=flat-square&labelColor=343b41"/> 
-<img alt="Forks" src="https://img.shields.io/github/forks/amariwan/amariwan?style=flat-square&labelColor=343b41"/>
-</p>
-
-
 
 
