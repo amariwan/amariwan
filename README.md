@@ -34,7 +34,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### My Digital Garden 🌱
 
-I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [aland-mariwan.de](https://aland-mariwan.de).
+I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [me.tasiomind.de](https://me.tasiomind.de).
 
 My motivation for writing is rooted in my desire to share knowledge and help others. I believe that learning is a continuous journey, and I want to contribute to the growth and development of fellow developers and learners.
 
@@ -42,7 +42,7 @@ I cover a variety of topics in my blog posts, including those I'm deeply familia
 
 My day-to-day work involves creating meaningful projects with **data**, utilizing the power of **Python** and **Javascript** to analyze, visualize, and derive insights from datasets.
 
-If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://aland-mariwan.de/blog.php). I hope you find something valuable and thought-provoking in my digital garden.
+If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://blog.tasiomind.de). I hope you find something valuable and thought-provoking in my digital garden.
 
 
  ---
