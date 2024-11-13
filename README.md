@@ -2,7 +2,7 @@
   <img src="code.gif" alt="Coding GIF" align="right" width="400" height="310" />
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aland+Mariwan.;Welcome+to+my+profile!&center=true&size=27" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aland+Baban.;Welcome+to+my+profile!&center=true&size=27" alt="Typing Animation" />
     </a>
   </h1>
 </div>
