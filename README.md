@@ -91,4 +91,3 @@ Python, to me, is not just a programming language; it's a medium of creativity a
 
 In my coding journey, Python is the brush I use to paint the canvas of possibilities. It's more than a language; it's a creative outlet. 🎨
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5359130" style='border:none;'></iframe>
