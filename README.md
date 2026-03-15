@@ -38,12 +38,7 @@ I've cultivated a digital garden where I regularly publish blog posts on topics 
 
 My motivation for writing is rooted in my desire to share knowledge and help others. I believe that learning is a continuous journey, and I want to contribute to the growth and development of fellow developers and learners.
 
-I cover a variety of topics in my blog posts, including those I'm deeply familiar with, common stumbling blocks I've encountered while mentoring others, and the latest concepts and technologies I'm learning. 
-
-My day-to-day work involves creating meaningful projects with **data**, utilizing the power of **Python** and **Javascript** to analyze, visualize, and derive insights from datasets.
-
 If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://tasiomind.com/blog). I hope you find something valuable and thought-provoking in my digital garden.
-
 
  ---
  
