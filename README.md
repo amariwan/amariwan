@@ -1,88 +1,72 @@
-<div class="profile-header">
-  <img src="code.gif" alt="Coding GIF" align="right" width="400" height="310" />
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Aland+Baban.;Welcome+to+my+profile!&center=true&size=27" alt="Typing Animation" />
-    </a>
-  </h1>
-</div>
+# Hi, I'm Aland Baban 👋
 
-<div class="profile-info">
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" alt="Coding GIF" width="27px" />
-    <br /><br />
-    <samp>
-      Full-Stack Software Developer
-      <br />
-    </samp>
-  </p>
-</div>
+**AI Engineer • Full-Stack Developer • Systems Thinker**
+
+I build intelligent software that solves real-world problems.
+
+My passion lies at the intersection of **Artificial Intelligence**, **Software Engineering**, **Cloud Infrastructure**, and **Developer Experience**. I enjoy designing systems that are not only technically robust but also simple to understand, maintain, and scale.
 
 ---
 
-<div class="hacktoberfest-badge">
-  <img width="250" align="left" src="https://lazywinadmin.com/images/2019/2019-09-29-hacktoberfest_powershell/hacktoberfest2019medium.png" alt="Hacktoberfest Badge" />
-</div>
+## 🚀 What I Do
 
- 
-### Boy Scout Rule
+* 🤖 Build AI-powered applications and autonomous agents
+* ⚙️ Design scalable backend architectures
+* ☁️ Develop cloud-native systems and automation pipelines
+* 🔄 Connect services through APIs and workflow orchestration
+* 🛠️ Create tools that improve developer productivity
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+---
 
- ---
+## 🧠 Engineering Philosophy
 
+I believe great software comes from clear thinking rather than unnecessary complexity.
 
-### My Digital Garden 🌱
+A few principles I follow:
 
-I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [tasiomind.dev](https://tasiomind.dev).
+* Keep systems simple.
+* Automate repetitive work.
+* Optimize for maintainability.
+* Document decisions.
+* Leave every codebase better than you found it.
 
-My motivation for writing is rooted in my desire to share knowledge and help others. I believe that learning is a continuous journey, and I want to contribute to the growth and development of fellow developers and learners.
+The **Boy Scout Rule** is one of my favorite engineering principles and something I try to apply in every project.
 
-If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://tasiomind.dev/blog). I hope you find something valuable and thought-provoking in my digital garden.
+---
 
- ---
- 
-<div>
-  <img align='left' style="margin-right:15px" src="error.gif" width="250">
-</div>
+## 🌱 Writing & Learning
 
-<h2>👨🏽‍💻 Talking about Personal Stuffs:</h2>
+I enjoy sharing what I learn.
 
-<p style="font-size:16px">
-  👨🏻‍🎓 I have successfully completed my education at OSZ Teltow, where I studied IT Specialist Application Development. Education has been a valuable part of my journey, and now I'm ready to apply my knowledge and skills in the real world.
+On my blog I write about topics such as:
 
-  😊 Lifelong learning is a core value for me. I believe in continually seeking opportunities to grow and develop, both personally and professionally.
+* Artificial Intelligence
+* LLMs & AI Agents
+* Software Architecture
+* DevOps & Cloud
+* Automation
+* Developer Tools
 
-  ⚡ Fun fact: In my free time, I enjoy Singing Rap 🎧 and diving into Books 📕 related to Security & Hacking. Additionally, I have a deep passion for playing Independent games 🎮, where I discover unique and innovative gaming experiences.
+📖 **Website:** https://tasiomind.dev
 
-  👯 I’m always open to collaboration, whether it's contributing to open source projects or working on exciting commercial endeavors. Feel free to reach out if you have a project in mind or just want to connect.
+✍️ **Blog:** https://tasiomind.dev/blog
 
-  💬 Don't hesitate to ask me about anything! I'm here to help and engage in meaningful conversations with fellow developers and enthusiasts.
-</p>
+## 🎯 Current Focus
 
-## 🚀 What I Like:
+I'm currently exploring:
 
-I have a profound affection for coding in **Python**, and here's why it's my programming language of choice:
+* Agentic AI
+* Multi-Agent Systems
+* MCP Servers
+* AI Automation
+* Knowledge Systems
+* Developer Tooling
+* Open Source
 
-* **Simple Syntax**: Python's clean and elegant syntax is a joy to work with. It reads like poetry and allows me to express complex ideas in a readable and concise manner.
+---
 
-* **Efficiency**: Python's power lies in its ability to accomplish a lot with just a few lines of code. It's the Swiss Army knife of programming languages, helping me turn concepts into functional code rapidly.
+## 🤝 Let's Connect
 
-* **Automation**: Python excels at automating mundane and repetitive tasks, making it an invaluable tool in modern software development. It's the engine that drives efficiency.
+I'm always interested in collaborating on projects involving AI, automation, cloud infrastructure, or open source.
 
-When I'm in the coding flow, I find solace in the rhythms of music. 🎵 Whether it's the soothing melodies of classical compositions or the electric beats of electronic tunes, music is my creative companion during coding adventures.
-
-To maintain focus and productivity, I adhere to a well-structured daily routine. 📝 Keeping track of tasks and goals ensures that I navigate through the day with precision, turning chaos into order.
-
-Python, to me, is not just a programming language; it's a medium of creativity and innovation. It excels in:
-
-* **Speedy Development**: Python enables rapid prototyping and swift development, transforming ideas into reality.
-
-* **Powerful Primitives**: With its rich set of built-in data types and libraries, Python simplifies complex operations and unleashes the full potential of programming.
-
-* **Readability**: Python code reads like executable pseudocode, making collaboration a breeze and maintenance a pleasure.
-
-* **Building Games**: I've even ventured into the realm of game development using Python, crafting interactive experiences that bring joy to players.
-
-In my coding journey, Python is the brush I use to paint the canvas of possibilities. It's more than a language; it's a creative outlet. 🎨
-
+If you're building something exciting, feel free to reach out.
