@@ -1,72 +1,93 @@
-# Hi, I'm Aland Baban 👋
+<div class="profile-header">
+  <img src="code.gif" alt="Coding GIF" align="right" width="400" />
 
-**AI Engineer • Full-Stack Developer • Systems Thinker**
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hello+World!;I'm+Aland+Baban;AI+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Software;Open+Source+Enthusiast"
+        alt="Typing SVG"
+      />
+    </a>
+  </h1>
+</div>
 
-I build intelligent software that solves real-world problems.
+<p align="center">
+  <strong>
+    AI Engineer • Full-Stack Developer • Open Source • Automation
+  </strong>
+</p>
 
-My passion lies at the intersection of **Artificial Intelligence**, **Software Engineering**, **Cloud Infrastructure**, and **Developer Experience**. I enjoy designing systems that are not only technically robust but also simple to understand, maintain, and scale.
-
----
-
-## 🚀 What I Do
-
-* 🤖 Build AI-powered applications and autonomous agents
-* ⚙️ Design scalable backend architectures
-* ☁️ Develop cloud-native systems and automation pipelines
-* 🔄 Connect services through APIs and workflow orchestration
-* 🛠️ Create tools that improve developer productivity
-
----
-
-## 🧠 Engineering Philosophy
-
-I believe great software comes from clear thinking rather than unnecessary complexity.
-
-A few principles I follow:
-
-* Keep systems simple.
-* Automate repetitive work.
-* Optimize for maintainability.
-* Document decisions.
-* Leave every codebase better than you found it.
-
-The **Boy Scout Rule** is one of my favorite engineering principles and something I try to apply in every project.
+<p align="center">
+  I build intelligent software, automate workflows and create tools that make developers more productive.
+</p>
 
 ---
 
-## 🌱 Writing & Learning
+<img align="left" width="220" src="https://lazywinadmin.com/images/2019/2019-09-29-hacktoberfest_powershell/hacktoberfest2019medium.png"/>
+
+## 🌍 Open Source
+
+I enjoy contributing to open source whenever I can.
+
+One principle I always follow:
+
+> **Leave every codebase better than you found it.**
+
+Whether it's fixing bugs, improving documentation, or making onboarding easier—I enjoy making projects better for everyone.
+
+<br clear="left"/>
+
+---
+
+## 🌱 Digital Garden
 
 I enjoy sharing what I learn.
 
-On my blog I write about topics such as:
+On **tasiomind.dev** I write about:
 
-* Artificial Intelligence
-* LLMs & AI Agents
-* Software Architecture
-* DevOps & Cloud
-* Automation
-* Developer Tools
+- 🤖 Artificial Intelligence
+- ⚙️ Software Engineering
+- ☁️ Cloud & DevOps
+- 🚀 Developer Experience
+- 🔄 Automation
 
 📖 **Website:** https://tasiomind.dev
 
 ✍️ **Blog:** https://tasiomind.dev/blog
 
-## 🎯 Current Focus
+---
 
-I'm currently exploring:
+<img align="left" src="error.gif" width="230"/>
 
-* Agentic AI
-* Multi-Agent Systems
-* MCP Servers
-* AI Automation
-* Knowledge Systems
-* Developer Tooling
-* Open Source
+## 👨‍💻 About Me
+
+- 🤖 Building AI applications & autonomous agents
+- ☁️ Passionate about Cloud Native systems
+- ⚙️ Automation enthusiast
+- 📚 Lifelong learner
+- 🎧 Music keeps me in the flow
+- 🎮 Indie games & security books
+- 🤝 Always happy to collaborate
+
+<br clear="left"/>
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Current Focus
 
-I'm always interested in collaborating on projects involving AI, automation, cloud infrastructure, or open source.
+- AI Agents
+- Multi-Agent Systems
+- MCP
+- LLM Infrastructure
+- Cloud Native
+- Open Source
 
-If you're building something exciting, feel free to reach out.
+<p align="center">
+
+### 💭 Philosophy
+
+> **Think before you build.**
+>
+> Great software isn't about writing more code—it's about solving the right problem with the simplest solution.
+
+</p>
