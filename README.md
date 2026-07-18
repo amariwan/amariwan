@@ -96,4 +96,8 @@ On **tasiomind.dev** I write about:
 <div align="center">
      <img src="chess-board.svg" alt="Chess Board" width="400" />
 </div>
+---
 
+<div align="center">
+     <img src="chess-board.svg" alt="Chess Board" width="400" />
+</div>
