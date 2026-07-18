@@ -91,3 +91,9 @@ On **tasiomind.dev** I write about:
 > Great software isn't about writing more code—it's about solving the right problem with the simplest solution.
 
 </p>
+---
+
+<div align="center">
+     <img src="chess-board.svg" alt="Chess Board" width="400" />
+</div>
+
