@@ -34,11 +34,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### My Digital Garden 🌱
 
-I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [me.tasiomind.de](https://tasiomind.com).
+I've cultivated a digital garden where I regularly publish blog posts on topics that I'm passionate about. Most of my writings can be found on my personal website [tasiomind.dev](https://tasiomind.dev).
 
 My motivation for writing is rooted in my desire to share knowledge and help others. I believe that learning is a continuous journey, and I want to contribute to the growth and development of fellow developers and learners.
 
-If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://tasiomind.com/blog). I hope you find something valuable and thought-provoking in my digital garden.
+If you're interested in exploring my thoughts and insights, feel free to check out my [latest blog post](https://tasiomind.dev/blog). I hope you find something valuable and thought-provoking in my digital garden.
 
  ---
  
