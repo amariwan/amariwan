@@ -23,7 +23,6 @@
 
 ---
 
-<img align="left" width="220" src="https://lazywinadmin.com/images/2019/2019-09-29-hacktoberfest_powershell/hacktoberfest2019medium.png"/>
 
 ## 🌍 Open Source
 
